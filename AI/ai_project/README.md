@@ -69,7 +69,7 @@ Expected Successful JSON Response Schema:
 ```
 
 ## 📝 Developer Academic Credentials
-Project Scope: Semester 5 — Artificial Intelligence & Software Engineering Lab Assignment
+Project Scope: Semester 6 — Artificial Intelligence Project
 
 Student Name: Shahzaib Shah
 
